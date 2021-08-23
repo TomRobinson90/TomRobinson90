@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomRobinson90
-- 👀 I’m interested in Cisco Collaboration, Cisco Devnet, Python
+- 👀 I’m interested in Cisco Collaboration, Cisco DevNet, Python
 - 🌱 I’m currently learning Python!
 - 📫 How to reach me 🐦 @nihilism65 
 
