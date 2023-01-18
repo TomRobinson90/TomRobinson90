@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TomRobinsonIO
 - 👀 I’m interested in Cisco Collaboration, Cisco DevNet, Python
 - 🌱 I’m currently learning Python!
-- 📫 How to reach me 🐦 @TomRobinsonIO
+- 📫 How to reach me @TomRobinsonIO@fosstodon.org
 
 <!---
 TomRobinsonIO/TomRobinsonIO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
